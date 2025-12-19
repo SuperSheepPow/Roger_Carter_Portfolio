@@ -37,6 +37,15 @@ const projects = [
         demoUrl:"https://supersheeppow.itch.io/ignoble-second-prototype",
         repoUrl:"#",
     },
+    {
+        id:5,
+        title:"SheepCuts Website",
+        description:"This is a fun little project I made primarily with Javascript, CSS, React and TailwindCSS, and some Calendly API It features a very basic website for a mock barbershop that specializes in shearing sheep.",
+        image:"projects/sheepCuts.png",
+        tags:["React,TailwindCSS,Calendly,Javascript,CSS"],
+        demoUrl:"https://github.com/SuperSheepPow/SheepCuts",
+        repoUrl:"https://github.com/SuperSheepPow/SheepCuts",
+    },
 ]
 
 export const ProjectsSection = () => {
